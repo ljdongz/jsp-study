@@ -1,0 +1,7 @@
+127.0.0.1 - - [19/Sep/2022:10:42:48 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [19/Sep/2022:10:42:49 +0900] "GET /jspbook/ch02/HelloWorld.jsp HTTP/1.1" 200 176
+0:0:0:0:0:0:0:1 - - [19/Sep/2022:10:42:49 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+0:0:0:0:0:0:0:1 - - [19/Sep/2022:10:44:58 +0900] "GET /jspbook/ch02/HelloWorld.jsp HTTP/1.1" 200 158
+0:0:0:0:0:0:0:1 - - [19/Sep/2022:10:45:21 +0900] "GET /jspbook/ch02/HelloWorld.jsp HTTP/1.1" 200 160
+0:0:0:0:0:0:0:1 - - [19/Sep/2022:10:55:44 +0900] "GET /jspbook/ch02/HelloWorld.jsp HTTP/1.1" 200 161
+0:0:0:0:0:0:0:1 - - [19/Sep/2022:10:56:10 +0900] "GET /jspbook/ch02/HelloWorld.jsp HTTP/1.1" 200 229
