@@ -49,3 +49,9 @@
 127.0.0.1 - - [21/Sep/2022:10:28:51 +0900] "GET / HTTP/1.1" 404 807
 0:0:0:0:0:0:0:1 - - [21/Sep/2022:10:29:23 +0900] "GET /jspbook/ch02/Calculate2.jsp HTTP/1.1" 200 642
 0:0:0:0:0:0:0:1 - - [21/Sep/2022:10:30:39 +0900] "GET /jspbook/ch02/Calculate2.jsp?num1=2&operator=%2B&num2=4&B1=%EA%B3%84%EC%82%B0 HTTP/1.1" 200 642
+127.0.0.1 - - [21/Sep/2022:11:08:06 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [21/Sep/2022:11:08:07 +0900] "GET /jspbook/HelloWorldSevlet HTTP/1.1" 200 19
+0:0:0:0:0:0:0:1 - - [21/Sep/2022:11:09:42 +0900] "GET /jspbook/HelloWorldSevlet HTTP/1.1" 200 103
+0:0:0:0:0:0:0:1 - - [21/Sep/2022:11:09:56 +0900] "GET /jspbook/HelloWorldSevlet?name=JAVA HTTP/1.1" 200 103
+0:0:0:0:0:0:0:1 - - [21/Sep/2022:11:10:03 +0900] "GET /jspbook/HelloWorldSevlet?name=JAVA%20WEB HTTP/1.1" 200 107
+0:0:0:0:0:0:0:1 - - [21/Sep/2022:11:10:51 +0900] "GET /jspbook/HelloWorldSevlet HTTP/1.1" 200 103
