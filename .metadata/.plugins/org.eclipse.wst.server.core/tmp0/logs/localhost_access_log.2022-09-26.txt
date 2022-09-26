@@ -27,3 +27,11 @@
 0:0:0:0:0:0:0:1 - - [26/Sep/2022:10:05:42 +0900] "GET /jspbook/CalcSevlet?num1=2&num2=3&operator=* HTTP/1.1" 200 107
 0:0:0:0:0:0:0:1 - - [26/Sep/2022:10:06:00 +0900] "GET /jspbook/CalcSevlet HTTP/1.1" 200 110
 0:0:0:0:0:0:0:1 - - [26/Sep/2022:10:06:03 +0900] "GET /jspbook/CalcSevlet HTTP/1.1" 200 112
+127.0.0.1 - - [26/Sep/2022:10:27:51 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [26/Sep/2022:10:27:51 +0900] "GET /jspbook/CalcController HTTP/1.1" 200 656
+0:0:0:0:0:0:0:1 - - [26/Sep/2022:10:28:19 +0900] "GET /jspbook/CalcController HTTP/1.1" 200 656
+0:0:0:0:0:0:0:1 - - [26/Sep/2022:10:29:49 +0900] "GET /jspbook/CalcController HTTP/1.1" 200 245
+0:0:0:0:0:0:0:1 - - [26/Sep/2022:10:30:57 +0900] "GET /jspbook/ch03/calculate.html HTTP/1.1" 200 620
+0:0:0:0:0:0:0:1 - - [26/Sep/2022:10:31:00 +0900] "GET /jspbook/CalcController?num1=4&operator=%2B&num2=2&B1=%EA%B3%84%EC%82%B0 HTTP/1.1" 200 245
+0:0:0:0:0:0:0:1 - - [26/Sep/2022:10:32:17 +0900] "GET /jspbook/ch03/calculate.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [26/Sep/2022:10:32:22 +0900] "GET /jspbook/CalcController?num1=&operator=%2B&num2=&B1=%EA%B3%84%EC%82%B0 HTTP/1.1" 200 245
