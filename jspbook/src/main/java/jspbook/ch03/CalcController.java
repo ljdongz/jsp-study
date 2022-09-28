@@ -57,7 +57,7 @@ public class CalcController extends HttpServlet {
 			Calc calc = new Calc(num1, num2, op);
 			result = calc.getResult();
 		}
-			// 출력 스트림을 통해 화면을 구성 한다. out.println("<HTML>"); out.println("<HEAD><TITLE>계산기
+		
 		request.setAttribute("output", result);
 		RequestDispatcher view = request.getRequestDispatcher("/ch03/result.jsp");
 		view.forward(request, response);
