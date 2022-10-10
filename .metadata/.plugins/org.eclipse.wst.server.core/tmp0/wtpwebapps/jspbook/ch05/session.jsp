@@ -14,6 +14,8 @@
 			out.println("<script>alert('세션이 해제되어 다시 설정합니다.')</script>");
 			session.setAttribute("login", "강호동");
 			session.setMaxInactiveInterval(3);
+		} else {
+			out.println("<script>alert('세션 해제 전')</script>");
 		}
 		%>
 		#<%=session.getAttribute("login")%>님 환영합니다.!!<BR> 1. 세션 ID :

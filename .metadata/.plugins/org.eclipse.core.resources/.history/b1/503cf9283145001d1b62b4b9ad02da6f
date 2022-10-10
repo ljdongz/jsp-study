@@ -15,7 +15,7 @@
 			session.setAttribute("login", "강호동");
 			session.setMaxInactiveInterval(3);
 		} else {
-			out.println("<script>alert('세션 해제 전')</script>");
+			out.println("<script>alert('세션 해제 ')</script>");
 		}
 		%>
 		#<%=session.getAttribute("login")%>님 환영합니다.!!<BR> 1. 세션 ID :
