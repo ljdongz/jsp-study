@@ -15,8 +15,8 @@ try {
 	pstmt = conn.prepareStatement(sql);
 	pstmt.setString(1, request.getParameter("username"));
 	pstmt.setString(2, request.getParameter("email"));
-
-	if (request.getParameter("username") != null) {
+	System.out.println(request.getParameter("username"));
+	if (request.getParameter("username") != "") {
 		pstmt.executeUpdate();
 	}
 } catch (Exception e) {
