@@ -1,0 +1,8 @@
+package jspbook.ch09;
+
+import javax.servlet.annotation.WebListener;
+
+@WebListener
+public class InitialMember {
+
+}

@@ -1,0 +1,6 @@
+package jspbook.ch09;
+
+@WebListener
+public class InitialMember {
+
+}
