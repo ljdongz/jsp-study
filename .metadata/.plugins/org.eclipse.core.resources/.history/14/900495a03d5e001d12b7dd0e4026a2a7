@@ -1,6 +1,0 @@
-package jspbook.ch08;
-
-@WebListener
-public class InitialMember {
-
-}
