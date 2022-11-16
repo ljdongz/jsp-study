@@ -18,4 +18,14 @@
   	<param-name>name3</param-name>
   	<param-value>김길동</param-value>
   </context-param>
+  
+  <context-param>
+  	<param-name>encoding</param-name>
+  	<param-value>utf-8</param-value>
+  </context-param>
+  
+  <context-param>
+  	<param-name>profile</param-name>
+  	<param-value>/Users/jeong/DevProject/my.conf.txt</param-value>
+  </context-param>
 </web-app>
