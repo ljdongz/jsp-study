@@ -11,7 +11,6 @@
     <fullyQualifiedTypeName name="org.json.JSONObject"/>
     <fullyQualifiedTypeName name="org.json.JSONException"/>
     <fullyQualifiedTypeName name="javax.servlet.jsp.tagext.SimpleTagSupport"/>
-    <fullyQualifiedTypeName name="java.io.IOException"/>
     <fullyQualifiedTypeName name="javax.servlet.jsp.JspException"/>
     <fullyQualifiedTypeName name="javax.servlet.jsp.JspWriter"/>
     <fullyQualifiedTypeName name="javax.servlet.jsp.tagext.JspFragment"/>
@@ -20,4 +19,9 @@
     <fullyQualifiedTypeName name="java.io.PrintWriter"/>
     <fullyQualifiedTypeName name="javax.servlet.annotation.WebInitParam"/>
     <fullyQualifiedTypeName name="javax.servlet.ServletContext"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="com.mysql.cj.x.protobuf.MysqlxExpect.Open.CtxOperation"/>
+    <fullyQualifiedTypeName name="java.util.Properties"/>
 </qualifiedTypeNameHistroy>
