@@ -1060,3 +1060,86 @@
 2022-11-21 11:12:00,627 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jeong/DevProject/WebService/mvnbook/src/main/resources
 2022-11-21 11:12:00,627 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2022-11-21 11:12:00,627 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jeong/DevProject/WebService/mvnbook/src/test/resources
+2022-11-23 10:06:13,271 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-23 10:09:38,661 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-23 10:09:38,663 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jeong/DevProject/WebService/mvnbook/src/main/resources
+2022-11-23 10:09:38,664 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-23 10:09:38,664 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jeong/DevProject/WebService/mvnbook/src/test/resources
+2022-11-23 10:44:05,863 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-23 10:44:05,864 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jeong/DevProject/WebService/mvnbook/src/main/resources
+2022-11-23 10:44:05,864 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-23 10:44:05,864 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jeong/DevProject/WebService/mvnbook/src/test/resources
+2022-11-23 10:44:20,281 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-23 10:44:20,282 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jeong/DevProject/WebService/mvnbook/src/main/resources
+2022-11-23 10:44:20,282 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-23 10:44:20,282 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jeong/DevProject/WebService/mvnbook/src/test/resources
+2022-11-23 10:45:47,101 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-23 10:45:47,102 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jeong/DevProject/WebService/mvnbook/src/main/resources
+2022-11-23 10:45:47,103 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-23 10:45:47,103 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jeong/DevProject/WebService/mvnbook/src/test/resources
+2022-11-23 10:50:58,410 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-23 10:50:58,411 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jeong/DevProject/WebService/mvnbook/src/main/resources
+2022-11-23 10:50:58,411 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-23 10:50:58,411 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jeong/DevProject/WebService/mvnbook/src/test/resources
+2022-11-23 10:51:15,464 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-23 10:51:15,466 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jeong/DevProject/WebService/mvnbook/src/main/resources
+2022-11-23 10:51:15,466 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-23 10:51:15,466 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jeong/DevProject/WebService/mvnbook/src/test/resources
+2022-11-23 10:53:54,055 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-23 10:53:54,057 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jeong/DevProject/WebService/mvnbook/src/main/resources
+2022-11-23 10:53:54,058 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-23 10:53:54,058 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jeong/DevProject/WebService/mvnbook/src/test/resources
+2022-11-23 10:55:11,463 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-23 10:55:11,463 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jeong/DevProject/WebService/mvnbook/src/main/resources
+2022-11-23 10:55:11,464 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-23 10:55:11,464 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jeong/DevProject/WebService/mvnbook/src/test/resources
+2022-11-23 10:55:43,231 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-23 10:55:43,232 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jeong/DevProject/WebService/mvnbook/src/main/resources
+2022-11-23 10:55:43,232 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-23 10:55:43,233 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jeong/DevProject/WebService/mvnbook/src/test/resources
+2022-11-23 10:56:01,201 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-23 10:56:01,202 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jeong/DevProject/WebService/mvnbook/src/main/resources
+2022-11-23 10:56:01,202 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-23 10:56:01,202 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jeong/DevProject/WebService/mvnbook/src/test/resources
+2022-11-23 10:56:11,446 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-23 10:56:11,447 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jeong/DevProject/WebService/mvnbook/src/main/resources
+2022-11-23 10:56:11,447 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-23 10:56:11,447 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jeong/DevProject/WebService/mvnbook/src/test/resources
+2022-11-23 10:56:54,665 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-23 10:56:54,666 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jeong/DevProject/WebService/mvnbook/src/main/resources
+2022-11-23 10:56:54,667 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-23 10:56:54,667 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jeong/DevProject/WebService/mvnbook/src/test/resources
+2022-11-23 10:57:39,536 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-23 10:57:39,537 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jeong/DevProject/WebService/mvnbook/src/main/resources
+2022-11-23 10:57:39,538 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-23 10:57:39,539 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jeong/DevProject/WebService/mvnbook/src/test/resources
+2022-11-23 11:01:02,230 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-23 11:01:02,231 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jeong/DevProject/WebService/mvnbook/src/main/resources
+2022-11-23 11:01:02,232 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-23 11:01:02,232 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jeong/DevProject/WebService/mvnbook/src/test/resources
+2022-11-23 11:01:34,436 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-23 11:01:34,436 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jeong/DevProject/WebService/mvnbook/src/main/resources
+2022-11-23 11:01:34,437 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-23 11:01:34,438 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jeong/DevProject/WebService/mvnbook/src/test/resources
+2022-11-23 11:01:57,481 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-23 11:01:57,482 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jeong/DevProject/WebService/mvnbook/src/main/resources
+2022-11-23 11:01:57,483 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-23 11:01:57,483 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jeong/DevProject/WebService/mvnbook/src/test/resources
+2022-11-23 11:06:17,245 [Worker-44: Debug Source Lookup] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jasper/9.0.65/tomcat-jasper-9.0.65-sources.jar
+2022-11-23 11:06:17,824 [Worker-44: Debug Source Lookup] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jasper/9.0.65/tomcat-jasper-9.0.65-sources.jar
+2022-11-23 11:06:18,578 [Worker-44: Debug Source Lookup] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-servlet-api/9.0.65/tomcat-servlet-api-9.0.65-sources.jar
+2022-11-23 11:06:19,106 [Worker-44: Debug Source Lookup] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-servlet-api/9.0.65/tomcat-servlet-api-9.0.65-sources.jar
+2022-11-23 11:06:19,865 [Worker-44: Debug Source Lookup] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-catalina/9.0.65/tomcat-catalina-9.0.65-sources.jar
+2022-11-23 11:06:20,704 [Worker-44: Debug Source Lookup] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-catalina/9.0.65/tomcat-catalina-9.0.65-sources.jar
+2022-11-23 11:06:21,471 [Worker-44: Debug Source Lookup] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-websocket/9.0.65/tomcat-websocket-9.0.65-sources.jar
+2022-11-23 11:06:21,949 [Worker-44: Debug Source Lookup] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-websocket/9.0.65/tomcat-websocket-9.0.65-sources.jar
+2022-11-23 11:06:24,010 [Worker-48: Debug Source Lookup] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-coyote/9.0.65/tomcat-coyote-9.0.65-sources.jar
+2022-11-23 11:06:24,735 [Worker-48: Debug Source Lookup] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-coyote/9.0.65/tomcat-coyote-9.0.65-sources.jar
+2022-11-23 11:08:23,916 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-23 11:08:23,917 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jeong/DevProject/WebService/mvnbook/src/main/resources
+2022-11-23 11:08:23,917 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-23 11:08:23,918 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jeong/DevProject/WebService/mvnbook/src/test/resources
+2022-11-23 11:15:33,388 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-23 11:15:33,389 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jeong/DevProject/WebService/mvnbook/src/main/resources
+2022-11-23 11:15:33,390 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-23 11:15:33,390 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jeong/DevProject/WebService/mvnbook/src/test/resources
